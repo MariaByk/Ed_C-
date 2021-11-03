@@ -58,5 +58,5 @@ array[7] = 1;
 PrintArray(array);
 Console.WriteLine();
 
-int pos = SumN(array,1);
+int pos = SumK(array,1);
 Console.WriteLine(pos);
